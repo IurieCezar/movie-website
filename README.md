@@ -1,4 +1,4 @@
-# movie_website
+# Youtube Trailers Library
 A library of youtube trailers.
 
 ## Getting Started
