@@ -16,7 +16,7 @@ this way running the whole program;
 ### How to run the project
 * Clone the repository to your local machine:
 
-`git clone https://github.com/IurieCezar/movie-website`
+`git clone https://github.com/iuriepopovici/movie-website`
 
 * Navigate to the directory that contains the code:
 
