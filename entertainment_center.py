@@ -16,7 +16,7 @@ momentum = media.Movie("Momentum",
 
 plastic = media.Movie("PLASTIC",
                       "http://www.flickeringmyth.com/wp-content/uploads/2014/04/Plastic-Movie-Poster-Julian-Gilbey.jpg",
-                      "https://www.youtube.com/watch?v=Y6qJU5VtIVg")
+                      "https://www.youtube.com/watch?v=e2IbFEEINxE")
 
 life_partners = media.Movie("Life Partners",
                             "https://upload.wikimedia.org/wikipedia/en/e/e8/Life_Partners_poster_(2014).png",
